@@ -1,1 +1,5 @@
 # cs-303-Huynh Gia Huy(Jim)
+![Screenshot 2023-02-13 222733](https://user-images.githubusercontent.com/112700814/218640673-1c1813cb-e67f-4a70-82ed-65d756116203.png)
+![Screenshot 2023-02-13 222854](https://user-images.githubusercontent.com/112700814/218640691-acd9973f-aefe-4f51-8fae-6e50a26e8b7e.png)
+![Screenshot 2023-02-13 222944](https://user-images.githubusercontent.com/112700814/218640695-acf28b37-362f-44aa-8893-add9c641d7b4.png)
+![Screenshot 2023-02-13 223019](https://user-images.githubusercontent.com/112700814/218640701-97de1aab-ab22-4582-8c6a-8775893ed763.png)
